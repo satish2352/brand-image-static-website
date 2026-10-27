@@ -103,6 +103,19 @@
     "focal": "50% 50%",
     "category": "shop-branding"
   },
+  "shop-backlit-anchor-board": {
+    "path": "assets/img/work/shop-backlit-anchor-board",
+    "widths": [
+      480,
+      800,
+      1152
+    ],
+    "width": 1152,
+    "height": 778,
+    "alt": "Anchor by Panasonic backlit board above Ashapuri Electricals shop",
+    "focal": "50% 30%",
+    "category": null
+  },
   "shop-clipon-board": {
     "path": "assets/img/work/shop-vivo-backlit",
     "widths": [
